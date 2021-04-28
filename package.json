@@ -1,0 +1,15 @@
+{
+  "name": "tiktokrelay",
+  "version": "1.0.0",
+  "description": "Simple relay for tiktok follower counts",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ilektronx",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tiktok-scraper": "^1.4.22"
+  }
+}
